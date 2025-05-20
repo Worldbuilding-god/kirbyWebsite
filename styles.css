@@ -1,0 +1,9 @@
+nav {
+    border: 5px solid black;
+    display: flex;
+    padding-left: 10px;
+    text-align: center;
+    a{
+        text-align: center;
+    }
+}
